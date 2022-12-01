@@ -1,4 +1,4 @@
-#### Cloud Cost Optimization - Microsoft Azure<br/>
+#### [To be completed] Cloud Cost Optimization - Microsoft Azure<br/>
 
 * [Cost optimization](https://www.gartner.com/en/information-technology/glossary/cost-optimization) is a business-focused, continuous discipline to drive spending and cost reduction, while maximizing business value. It includes:
    * Obtaining the best pricing and terms for all business purchases <br/>
