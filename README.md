@@ -8,6 +8,7 @@
 #### Further References <br/>
 * [Cloud cost-optimization simulator](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/cloud-cost-optimization-simulator#)<br/>
 * [Mastering Cloud Cost Optimization: The Principles](https://www.ibm.com/cloud/blog/mastering-cloud-cost-optimization-the-principles)<br/>
+* [8 ways to reduce cloud costs](https://www.techtarget.com/searchcloudcomputing/feature/5-ways-to-reduce-cloud-costs)<br/>
 * [Optimize Azure costs](https://azure.microsoft.com/en-us/solutions/cost-optimization/#tools)<br/>
 * [Cloud Cost Optimization: Four Steps to Success](https://www.bmc.com/blogs/cloud-cost-optimization/)<br/>
 * [Cloust cost optimization best practices](https://spot.io/resources/cloud-cost/cloud-cost-optimization-15-ways-to-optimize-your-cloud/#eliminate)<br/>
