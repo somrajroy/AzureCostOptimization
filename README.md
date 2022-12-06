@@ -24,7 +24,8 @@
   * (Choosing the right technology) Switching workloads to containers : Check workload affinity and consider switching to containers. Hosting costs will reduce. Although it’s not always possible, aim should always be for 100% VM utilization to ensure costs are optimal. This can be done by monitoring metrics with Azure Monitor and using auto-scaling. <br/>
   * (Choosing the right technology) Serverless : This can save lot of costs. Serverless functions runs on demand, based on user-defined triggers. Serverless computing is best suited for compute-intensive workloads that run intermittently.<br/>
   * Avoid undifferentiated heavy lifting and leverage managed services : For example moving away from traditional databases to PaaS options (elastic databases). <br/>
-  * Identify and minimize Software License Costs : Software licensing is a major component of cloud operating costs. Manual license management is challenging, increasing the risk of paying for unused software licenses. <br/><br/>
+  * Identify and minimize Software License Costs : Software licensing is a major component of cloud operating costs. Manual license management is challenging, increasing the risk of paying for unused software licenses. <br/>
+  * Choose the right region : Azure pricing often varies by regions -- with the North American regions typically being the cheapest -- so selecting a certain region could save money. If possible, move your workload to a less expensive region.(consider network latency and packet loss)<br/><br/>
   
   
 
