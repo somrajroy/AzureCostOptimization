@@ -25,12 +25,9 @@
   * Switch workloads to containers : Check workload affinity and consider switching to containers. Hosting costs will reduce. Although it’s not always possible, aim should always be for 100% VM utilization to ensure costs are optimal. This can be done by monitoring metrics with Azure Monitor and using auto-scaling. <br/>
   * Serverless : This can save lot of costs. Serverless functions runs on demand, based on user-defined triggers. Serverless computing is best suited for compute-intensive workloads that run intermittently.<br/>
   * Avoid undifferentiated heavy lifting and leverage managed services : For example moving away from traditional databases to PaaS options (elastic databases). <br/>
-  * Identify and minimize Software License Costs : Software licensing is a major component of cloud operating costs. Manual license management is challenging, increasing the risk of paying for unused software licenses. <br/>
+  * Identify and minimize Software License Costs : Software licensing is a major component of cloud operating costs. Manual license management is challenging, increasing the risk of paying for unused software licenses. <br/><br/>
   
   
-
-
-
 
 #### Further References <br/>
 * [The comprehensive WAF Cost Optimization documentation is available here](https://learn.microsoft.com/en-us/azure/architecture/framework/cost/).
@@ -39,4 +36,5 @@
 * [Optimize Azure costs](https://azure.microsoft.com/en-us/solutions/cost-optimization/#tools)<br/>
 * [How to optimize your cloud investment with Cost Management](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices)<br/>
 * [Azure Cost Optimization Techniques](https://www.linkedin.com/pulse/azure-cost-optimization-techniques-dr-rabi-prasad-padhy?trk=pulse-article_more-articles_related-content-card)<br/>
+* [Azure Cost Optimisation - Azure Architecture Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-cost-optimisation/ba-p/3624817)<br/>
 
