@@ -5,7 +5,7 @@
 * Below are some key cost optimization strategies. (Each service can have its own optimization technique - for e.g. Azure AKS has some best practices to run workloads in lowest price point & is not covered here) <br/>
   * Start early with cost optimization : This includes Azure services, tools, and resources to organize and track cost and usage data, enhance control through consolidated billing and access permission, enable better planning through budgeting and forecasts, and further lower cost with resources and pricing optimizations. [7 ways to optimize costs in Azure](https://azure.microsoft.com/en-us/solutions/cost-optimization/#ways-to-optimize) <br/>
   * Choose right pricing model : Opt for reserved or spot instances <br/>
-  * Implement processes to identify resource waste : For example find and delete unattached disks, idle load balancers. <br/>
+  * Implement processes to identify resource waste : For example find and delete unattached disks, idle load balancers etc. (for example locate unused virtual disks via the Disks screen in Azure portal. Here, all active managed virtual disks in  current storage account is shown, and identify any without an owner which would imply it’s empty & delete.) <br/>
   * [Refer Azure Advisor](https://azure.microsoft.com/en-us/products/advisor/#features) recommendations regularly and take actions if needed <br/>
   * Have Right size resources : For example to right size VM's start with four main metrics - CPU, memory, I/O and networking. <br/>
   * Have capacity planning : use autoscaling of resources to avoid overspend <br/>
