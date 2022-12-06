@@ -1,7 +1,7 @@
 #### Cloud Cost Optimization - Microsoft Azure <br/><br/>
 * Cloud cost optimization is a combination of strategies, techniques, best practices, and tools that not only help reduce cloud costs but also maximize the business value of using the cloud. Optimizing cloud costs isn't just about reducing costs; it's also about aligning costs with business goals. 
 * An increase in costs is not necessarily a problem if it's accompanied by an increase in revenue. One of the most important goals is to ensure that costs correlate with productive and profitable activities.<br/>
-* * There are three fundamental drivers of cost in Cloud which should be kept in mind while architecting solutions : compute, storage, and outbound data transfer. <br/>
+* There are three fundamental drivers of cost in Cloud which should be kept in mind while architecting solutions : compute, storage, and outbound data transfer. <br/>
 * Additionally there are 3 types of Azure Cost Optimization Techniques : Resource-based, Usage-based and Pricing-based. <br/>
 * [According to Microsoft Azure WAF(well architected framework)](https://learn.microsoft.com/en-us/azure/architecture/framework/#cost-optimization) - focus should be on generating incremental value early. <br/>
 * Each service in MS Azure (e.g. Azure AKS, SQL database etc) can have its own cost optimization techniques but in general below are some generic strategies which can be followed to reduce cost in Microsoft Azure. <br/><br/>
