@@ -26,6 +26,7 @@
   * Avoid undifferentiated heavy lifting and leverage managed services : For example moving away from traditional databases to PaaS options (elastic databases). <br/>
   * Identify and minimize Software License Costs : Software licensing is a major component of cloud operating costs. Manual license management is challenging, increasing the risk of paying for unused software licenses. Migrating to an open source equivalent product/software can save millions. <br/>
   * Choose the right region : Azure pricing often varies by regions -- with the North American regions typically being the cheapest -- so selecting a certain region could save money. If possible, move workloads to a less expensive region.(consider network latency and packet loss)<br/><br/>
+  * [Optimize networking cost with routing preference](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-overview) : This also applies to storage cost optimization. <br/><br/>
   
   
 
