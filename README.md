@@ -34,7 +34,7 @@
 
 #### Further References <br/>
 * [The comprehensive WAF Cost Optimization documentation](https://learn.microsoft.com/en-us/azure/architecture/framework/cost/).<br/>
-* [4 cloud cost optimization strategies with Microsoft Azure](https://azure.microsoft.com/en-gb/blog/4-cloud-cost-optimization-strategies-with-microsoft-azure/)<br/>
+* [4 cloud cost optimization strategies with Microsoft Azure with E-Book](https://azure.microsoft.com/en-gb/blog/4-cloud-cost-optimization-strategies-with-microsoft-azure/)<br/>
 * [Overview of Azure Cost optimization pillar & Principles](https://learn.microsoft.com/en-us/azure/architecture/framework/cost/overview)<br/>
 * [Cloud cost-optimization simulator](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/cloud-cost-optimization-simulator#)<br/>
 * [Mastering Cloud Cost Optimization: The Principles](https://www.ibm.com/cloud/blog/mastering-cloud-cost-optimization-the-principles)<br/>
