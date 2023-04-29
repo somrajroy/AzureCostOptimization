@@ -3,6 +3,7 @@
 * An increase in costs is not necessarily a problem if it's accompanied by an increase in revenue. One of the most important goals is to ensure that costs correlate with productive and profitable activities.<br/>
 * There are three fundamental drivers of cost in Cloud which should be kept in mind while architecting solutions : compute, storage, and outbound data transfer. <br/>
 * Additionally there are 3 types of Azure Cost Optimization Techniques : Resource-based, Usage-based and Pricing-based. <br/>
+* Cloud cost optimization is essential for companies as it directly impacts their bottom line and OPEX expenses. The cost of cloud computing can quickly add up, especially for businesses with a high volume of data or high traffic, and mission-critical applications. <br/>
 * [According to Microsoft Azure WAF(well architected framework)](https://learn.microsoft.com/en-us/azure/architecture/framework/#cost-optimization) - focus should be on generating incremental value early. Each service in MS Azure (e.g. Azure AKS, SQL database etc) can have its own cost optimization techniques but in general below are some generic strategies which can be followed to reduce cost in Microsoft Azure. <br/><br/>
   * Increase Linux Compute   : There’s no such thing as the perfect operating system, but many in the tech world would probably say that Linux comes close. With the ability to run on almost any machine, configured how client want it, and with a super-low TCO (just to name a few of its awesome attributes), a Linux based operating system should be go-to for the next time there is a challenge to tackle. This vital and popular OS will only continue to gain ground as cloud-native apps become more prevalent and companies look for new ways to build the future .<br/>  
   * Review Pricing and Billing Information : Azure provides billing details explaining the cost of cloud services. This information can be leveraged to identify high-cost areas and generate savings. Understanding cloud costs helps in informed decisions <br/>
@@ -33,6 +34,7 @@
 
 #### Further References <br/>
 * [The comprehensive WAF Cost Optimization documentation](https://learn.microsoft.com/en-us/azure/architecture/framework/cost/).<br/>
+* [4 cloud cost optimization strategies with Microsoft Azure](https://azure.microsoft.com/en-gb/blog/4-cloud-cost-optimization-strategies-with-microsoft-azure/)<br/>
 * [Overview of Azure Cost optimization pillar & Principles](https://learn.microsoft.com/en-us/azure/architecture/framework/cost/overview)<br/>
 * [Cloud cost-optimization simulator](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/cloud-cost-optimization-simulator#)<br/>
 * [Mastering Cloud Cost Optimization: The Principles](https://www.ibm.com/cloud/blog/mastering-cloud-cost-optimization-the-principles)<br/>
