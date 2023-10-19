@@ -53,4 +53,5 @@
 * [Azure Cost Optimisation - Azure Architecture Blog](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-cost-optimisation/ba-p/3624817)<br/>
 * [Diving deeper into Azure cost optimization (Part 1) | Well-Architected Framework](https://www.youtube.com/watch?v=6ynOHAainug&t=15s) & [Diving deeper into Azure cost optimization (Part 2) | Well-Architected Framework](https://www.youtube.com/watch?v=nQ1V19FlSxA)<br/>
 * [Azure Cost Optimisation - A practical approach to cost optimize your Microsoft Azure Solutions.](https://www.youtube.com/watch?v=uBIbXdfpHBQ&t=1469s)<br/>
+* [Learn Live - Introduction to the Microsoft Azure Well-Architected Framework](https://www.youtube.com/watch?v=BF1Tw9MNa5U)<br/>
 
