@@ -55,4 +55,5 @@
 * [Azure Cost Optimisation - A practical approach to cost optimize your Microsoft Azure Solutions.](https://www.youtube.com/watch?v=uBIbXdfpHBQ&t=1469s)<br/>
 * [Learn Live - Introduction to the Microsoft Azure Well-Architected Framework](https://www.youtube.com/watch?v=BF1Tw9MNa5U)<br/>
 * [Get started with the Cloud Adoption Framework-Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/)<br/>
+* [Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework/)<br/>
 
