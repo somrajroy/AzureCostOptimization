@@ -54,4 +54,6 @@
 * [Diving deeper into Azure cost optimization (Part 1) | Well-Architected Framework](https://www.youtube.com/watch?v=6ynOHAainug&t=15s) & [Diving deeper into Azure cost optimization (Part 2) | Well-Architected Framework](https://www.youtube.com/watch?v=nQ1V19FlSxA)<br/>
 * [Azure Cost Optimisation - A practical approach to cost optimize your Microsoft Azure Solutions.](https://www.youtube.com/watch?v=uBIbXdfpHBQ&t=1469s)<br/>
 * [Ten design principles for Azure applications](https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/)<br/>
+* [Technology choices for Azure solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)<br/>
+* [Best practices in cloud applications](https://learn.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)<br/>
 
