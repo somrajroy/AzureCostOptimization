@@ -56,4 +56,5 @@
 * [Ten design principles for Azure applications](https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/)<br/>
 * [Technology choices for Azure solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)<br/>
 * [Best practices in cloud applications](https://learn.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)<br/>
+* [What is Performance ? Performance tuning a distributed application](https://learn.microsoft.com/en-us/azure/architecture/performance/)<br/>
 
