@@ -58,4 +58,5 @@
 * [Best practices in cloud applications](https://learn.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)<br/>
 * [What is Performance ? Performance tuning a distributed application](https://learn.microsoft.com/en-us/azure/architecture/performance/)<br/>
 * [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/)<br/>
+* [Four Strategies for Cost-Effective Azure Monitoring and Log Analytics](https://techcommunity.microsoft.com/blog/azuregovernanceandmanagementblog/four-strategies-for-cost-effective-azure-monitoring-and-log-analytics/4101784)<br/>
 
